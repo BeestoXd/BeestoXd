@@ -8,8 +8,12 @@ Software developer who builds apps and Minecraft plugins · UTC+8
 
 🔭 I'm currently working on
 
-- [UltimateDonutSMP](https://github.com/BeestoXd/UltimateDonutSMP)
-- [UltimateDonutSMP V2](https://github.com/BeestoXd/UltimateDonutSMP-V2)
+<a href="https://github.com/BeestoXd/UltimateDonutSMP">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BeestoXd&repo=UltimateDonutSMP&theme=dark&hide_border=false&description_lines_count=2" alt="UltimateDonutSMP" />
+</a>
+<a href="https://github.com/BeestoXd/UltimateDonutSMP-V2">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BeestoXd&repo=UltimateDonutSMP-V2&theme=dark&hide_border=false&description_lines_count=2" alt="UltimateDonutSMP V2" />
+</a>
 
 ###
 
