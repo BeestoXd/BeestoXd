@@ -14,11 +14,13 @@ Software developer who builds apps and Minecraft plugins · UTC+8
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BeestoXd&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BeestoXd&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="Most used languages" />
-  <img src="https://streak-stats.demolab.com?user=BeestoXd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="GitHub streak" />
-  <img src="https://github-profile-trophy.vercel.app/?username=BeestoXd&theme=onedark&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="150" alt="GitHub trophies" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BeestoXd&radius=16&theme=one-dark&area=true" height="300" alt="Contribution graph" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BeestoXd&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&locale=en" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BeestoXd&layout=compact&theme=dark&hide_border=false&langs_count=5&card_width=320&locale=en" height="165" alt="Most used languages" />
+  <img src="https://streak-stats.demolab.com?user=BeestoXd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="165" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-profile-trophy-one.vercel.app/?username=BeestoXd&theme=onedark&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="GitHub trophies" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/BeestoXd/BeestoXd/activity-graph-output/activity-graph.svg" width="100%" alt="Contribution graph" />
 </div>
 
 ###

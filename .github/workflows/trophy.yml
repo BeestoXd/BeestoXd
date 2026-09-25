@@ -19,7 +19,7 @@ jobs:
       - name: Download trophy.svg
         run: |
           mkdir -p dist
-          curl -fsSL "https://github-profile-trophy.vercel.app/?username=${{ github.repository_owner }}&theme=onedark&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" -o dist/trophy.svg
+          curl -fsSL "https://github-profile-trophy-one.vercel.app/?username=${{ github.repository_owner }}&theme=onedark&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" -o dist/trophy.svg
 
       - name: push trophy.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
