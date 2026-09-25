@@ -1,48 +1,37 @@
-<h2 data-importer="text" align="left">Hi 👋, I'm BeestoXd</h2>
+<img align="right" width="140" height="140" alt="BeestoXd" src="https://i.imgur.com/3xfQmgS.jpeg" />
 
-###
+<h2>Hi 👋, I'm BeestoXd</h2>
 
 Software developer who builds apps and Minecraft plugins · UTC+8
 
-###
+<br clear="both">
 
-🔭 I'm currently working on
+### 🔭 I'm currently working on
 
-<a href="https://github.com/BeestoXd/UltimateDonutSMP">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BeestoXd&repo=UltimateDonutSMP&theme=dark&hide_border=false&description_lines_count=2" alt="UltimateDonutSMP" />
-</a>
-<a href="https://github.com/BeestoXd/UltimateDonutSMP-V2">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BeestoXd&repo=UltimateDonutSMP-V2&theme=dark&hide_border=false&description_lines_count=2" alt="UltimateDonutSMP V2" />
-</a>
+<a href="https://github.com/BeestoXd/UltimateDonutSMP"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BeestoXd&repo=UltimateDonutSMP&theme=dark&hide_border=true&description_lines_count=2" alt="UltimateDonutSMP" /></a>
+<a href="https://github.com/BeestoXd/UltimateDonutSMP-V2"><img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=BeestoXd&repo=UltimateDonutSMP-V2&theme=dark&hide_border=true&description_lines_count=2" alt="UltimateDonutSMP V2" /></a>
 
-###
+### 📊 GitHub stats
 
-<div data-importer="stats" align="center">
-  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BeestoXd&show_icons=true&theme=dark&hide_border=false&include_all_commits=true&locale=en" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BeestoXd&layout=compact&theme=dark&hide_border=false&langs_count=5&card_width=320&locale=en" height="165" alt="Most used languages" />
-  <img src="https://streak-stats.demolab.com?user=BeestoXd&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="165" alt="GitHub streak" />
+<div align="center">
+  <img src="https://github-readme-stats-one-bice.vercel.app/api?username=BeestoXd&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&locale=en&rank_icon=github" height="165" alt="GitHub stats" />
+  <img src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=BeestoXd&layout=compact&theme=dark&hide_border=true&langs_count=5&card_width=320&locale=en" height="165" alt="Most used languages" />
   <br/>
-  <img src="https://github-profile-trophy-one.vercel.app/?username=BeestoXd&theme=onedark&column=7&margin-w=8&margin-h=8&no-bg=false&no-frame=false" alt="GitHub trophies" />
+  <img src="https://streak-stats.demolab.com?user=BeestoXd&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=8" height="165" alt="GitHub streak" />
+  <br/>
+  <img src="https://github-profile-trophy-one.vercel.app/?username=BeestoXd&theme=onedark&column=6&margin-w=8&margin-h=8&no-bg=true&no-frame=false" alt="GitHub trophies" />
   <br/>
   <img src="https://raw.githubusercontent.com/BeestoXd/BeestoXd/activity-graph-output/activity-graph.svg" width="100%" alt="Contribution graph" />
 </div>
 
-###
-
-<img data-importer="image" align="right" height="150" src="https://i.imgur.com/3xfQmgS.jpeg"  />
-
-###
-
-### Languages I'm proficient in
+### 💻 Languages I'm proficient in
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-###
-
-### Technologies I've been learning (past 6 years)
+### 📘 Technologies I've been learning
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)
@@ -68,10 +57,6 @@ Software developer who builds apps and Minecraft plugins · UTC+8
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
-###
-
-<br clear="both">
-
-<img data-importer="snake" src="https://raw.githubusercontent.com/BeestoXd/BeestoXd/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" />
-
-###
+<div align="center">
+  <img src="https://raw.githubusercontent.com/BeestoXd/BeestoXd/snake-output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%" />
+</div>
