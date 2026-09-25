@@ -1,10 +1,10 @@
-<h2>
-  <img align="right" width="140" height="140" alt="BeestoXd" src="https://i.imgur.com/3xfQmgS.jpeg" />
-  Hi 👋, I'm BeestoXd
-  <br clear="both">
-</h2>
+<img align="right" width="140" alt="BeestoXd" src="https://raw.githubusercontent.com/BeestoXd/BeestoXd/main/profile.png" />
+
+**Hi 👋, I'm BeestoXd**
 
 Software developer who builds apps and Minecraft plugins · UTC+8
+
+<br clear="both">
 
 ### 🔭 I'm currently working on
 
