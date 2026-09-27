@@ -1,4 +1,4 @@
-<img align="right" width="140" alt="BeestoXd" src="https://i.imgur.com/3xfQmgS.jpeg" />
+<img align="right" width="140" alt="BeestoXd" src="https://avatars.githubusercontent.com/u/107915729?s=400&u=6d21ec2d3ab049d8c80cb8b73d725fcd337598b7&v=4" />
 
 **Hi 👋, I'm BeestoXd**
 
